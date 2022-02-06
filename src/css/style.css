@@ -1,0 +1,40 @@
+/* HEADER */
+    header{
+        
+    }
+    .brand-Kenzie{
+        background-color: #000;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 10px 0px;
+        background-color: #000;
+    }
+    .brand-Kenzie figure{}
+    .brand-Kenzie figure img{}
+    .brand-Kenzie h1{
+        color: #fff;
+        font-size: 2rem;
+    }
+
+    .intro{
+        padding: 25px 0px;
+        background-image: url(../img/image\ 8.png);
+        background-repeat: no-repeat;
+        background-position-y: -250px;
+    }
+    .intro p{
+        color: var(--primary-color);
+        max-width: 320px;
+        text-align: center;
+        font-size: 2.5rem;
+        line-height: 25px;
+        font-weight:bold;
+        padding: 0px 10px;
+    }
+
+    .box-imageTeamKenzie{}
+    .box-imageTeamKenzie img{
+        width: 100%
+    }
+/* HEADER */
