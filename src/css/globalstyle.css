@@ -1,4 +1,4 @@
-body,header,div,figure,img,h1,p{
+body, header, div, figure, img, h1, h2, h3, h4, h5, h6, p, main, section{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -17,3 +17,14 @@ figcaption{
     --linear: linear-gradient(to right, #585757,#A0A0A0);
 }
 /* VARIAVEIS CSS */
+
+@keyframes slidein {
+    from {
+      transform: translateX(0%);
+    }
+  
+    to {
+      transform: translateX(100%);
+    }
+  }
+  
