@@ -1,0 +1,19 @@
+body,header,div,figure,img,h1,p{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+figcaption{
+    display: none;
+}
+/* VARIAVEIS CSS */
+:root{
+    font-size: 8px;
+    font-family: sans-serif;
+    --primary-color: #0997E7;
+    --second-color:#0BB4EA;
+    --color-Button-Whats: #6C9E2C;
+    --color-dark: #222222;
+    --linear: linear-gradient(to right, #585757,#A0A0A0);
+}
+/* VARIAVEIS CSS */
